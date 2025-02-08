@@ -1,4 +1,4 @@
-# SQL-Explore-Bicycle-Manufacturer-Dataset
+# [SQL] Explore Bicycle Manufacturer Dataset
 ## 1. **Introduction**
 
 Conducted an in-depth analysis of the Bicycle Manufacturer dataset using SQL on Google BigQuery to uncover insights that guide business strategies.
